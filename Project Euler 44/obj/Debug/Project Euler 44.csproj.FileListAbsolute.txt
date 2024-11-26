@@ -1,0 +1,7 @@
+C:\Users\dayem\source\repos\Project Euler 44\bin\Debug\Project Euler 44.exe.config
+C:\Users\dayem\source\repos\Project Euler 44\bin\Debug\Project Euler 44.exe
+C:\Users\dayem\source\repos\Project Euler 44\bin\Debug\Project Euler 44.pdb
+C:\Users\dayem\source\repos\Project Euler 44\obj\Debug\Project Euler 44.csproj.AssemblyReference.cache
+C:\Users\dayem\source\repos\Project Euler 44\obj\Debug\Project Euler 44.csproj.CoreCompileInputs.cache
+C:\Users\dayem\source\repos\Project Euler 44\obj\Debug\Project Euler 44.exe
+C:\Users\dayem\source\repos\Project Euler 44\obj\Debug\Project Euler 44.pdb
